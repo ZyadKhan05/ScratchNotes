@@ -1,10 +1,12 @@
 public class Note<Q, A> {
     private Q front;
     private A back;
+    private int cnt = 0;
 
     public Note(Q front, A back) {
         this.front = front;
         this.back = back;
+        cnt++;
     }
 
     public Q getfront() {

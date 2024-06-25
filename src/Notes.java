@@ -28,8 +28,10 @@ public class Notes<Q, A> {
     }
 
     public void printNotes() {
+        int cnt = 1;
         for (Map.Entry<Note<Q, A>, Integer> entry : notes.entrySet()) {
-            System.out.println(entry.getKey());
+            System.out.println("Flashcard #"  + cnt + "\n"+ entry.getKey() + "\n");
+            cnt++;
         }
     }
 
