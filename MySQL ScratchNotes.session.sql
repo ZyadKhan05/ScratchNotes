@@ -1,0 +1,3 @@
+SHOW DATABASES;
+USE scratch_notes;
+SHOW TABLES;
