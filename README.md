@@ -1,7 +1,9 @@
 # ScratchNotes
 "Sharpen Your Mind, One Scratch at a Time!"
+<div align="center">
+	<img src="(https://github.com/user-attachments/assets/87ab277d-fab8-45b1-8af2-93c02c422ccf)>
+</div>
 
-![image](https://github.com/user-attachments/assets/87ab277d-fab8-45b1-8af2-93c02c422ccf)
 
 
  ScratchNotes is a Java-based application designed to help you create, organize, and review flashcards. Utilizing SQL for storage, ScratchNotes offers a seamless experience for managing your study materials. Whether you're preparing for exams, learning a new language, or simply need to memorize important information, ScratchNotes is here to assist you.
