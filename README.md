@@ -1,7 +1,7 @@
 # ScratchNotes
 "Sharpen Your Mind, One Scratch at a Time!"
 <div align="center">
-	<img src="https://github.com/ZyadKhan05/ScratchNotes/blob/main/Resources/scratchnotes.jpeg" style="width:600px;height:600px;">
+	<img src="https://github.com/ZyadKhan05/ScratchNotes/blob/main/Resources/scratchnotes.jpeg" style="width:500px;height:500px;">
 </div>
 
 
