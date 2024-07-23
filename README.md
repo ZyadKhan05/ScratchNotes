@@ -1,7 +1,7 @@
 # ScratchNotes
 "Sharpen Your Mind, One Scratch at a Time!"
 <div align="center">
-	<img src="(https://github.com/user-attachments/assets/87ab277d-fab8-45b1-8af2-93c02c422ccf)>
+	<img src=![image](https://github.com/user-attachments/assets/87ab277d-fab8-45b1-8af2-93c02c422ccf)>
 </div>
 
 
