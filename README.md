@@ -5,8 +5,8 @@
 </div>
 
 
-
- ScratchNotes is a Java-based application designed to help you create, organize, and review flashcards. Utilizing SQL for storage, ScratchNotes offers a seamless experience for managing your study materials. Whether you're preparing for exams, learning a new language, or simply need to memorize important information, ScratchNotes is here to assist you.
+<div align="left">
+ScratchNotes is a Java-based application designed to help you create, organize, and review flashcards. Utilizing SQL for storage, ScratchNotes offers a seamless experience for managing your study materials. Whether you're preparing for exams, learning a new language, or simply need to memorize important information, ScratchNotes is here to assist you.
 
 ### Built With
 - Java
@@ -53,3 +53,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions or inquiries, please contact us at ... .
 
 Happy studying with ScratchNotes!
+</div>
